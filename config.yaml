@@ -1,0 +1,7 @@
+# development enviorment
+dev:
+  port: ':8080'
+
+# product enviorment 
+product:
+  port: ':8080'
